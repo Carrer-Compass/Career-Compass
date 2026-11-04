@@ -1,0 +1,33 @@
+STUDENT PLACEMENT AND INDUSTRY SKILL ANALYSIS
+==================================================
+Total Students: 191
+Placed Students: 66
+Placement Rate: 34.55%
+Average Package: 9.09 LPA
+Total Job Role Records: 486
+
+TOP 10 INDUSTRY SKILLS
+          Skill  Demand_Count
+cloud computing            79
+     automation            68
+          ci/cd            54
+         python            51
+          linux            47
+      scripting            47
+            git            46
+            sql            45
+     networking            44
+       security            41
+
+TOP 10 JOB TITLES
+                 Job_Title  Count
+  ACCESSIBILITY SPECIALIST      2
+     AGILE PROJECT MANAGER      2
+  BUSINESS SYSTEMS ANALYST      2
+           CLOUD ARCHITECT      2
+COMPUTER GRAPHICS ANIMATOR      2
+              DATA ANALYST      2
+              DATA MODELER      2
+            DATA SCIENTIST      2
+            DEVOPS MANAGER      2
+     FRAMEWORKS SPECIALIST      2
